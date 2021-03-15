@@ -1,0 +1,16 @@
+*{
+  box-sizing: border-box;
+}
+img {
+  background: #F1F1FA;
+  width: 100% ;
+  display: block;
+  margin: 10px auto;
+  border: 0;
+}
+
+.app{
+  width:50% ;
+  height: auto;
+  margin:auto ; 
+}
