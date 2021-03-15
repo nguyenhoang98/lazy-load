@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lazy-load/static/css/main.18b790f8.chunk.css",
+    "main.js": "/lazy-load/static/js/main.400dc8c7.chunk.js",
+    "main.js.map": "/lazy-load/static/js/main.400dc8c7.chunk.js.map",
+    "runtime-main.js": "/lazy-load/static/js/runtime-main.c79bab3f.js",
+    "runtime-main.js.map": "/lazy-load/static/js/runtime-main.c79bab3f.js.map",
+    "static/js/2.71be2b1b.chunk.js": "/lazy-load/static/js/2.71be2b1b.chunk.js",
+    "static/js/2.71be2b1b.chunk.js.map": "/lazy-load/static/js/2.71be2b1b.chunk.js.map",
+    "static/js/3.bbacbce2.chunk.js": "/lazy-load/static/js/3.bbacbce2.chunk.js",
+    "static/js/3.bbacbce2.chunk.js.map": "/lazy-load/static/js/3.bbacbce2.chunk.js.map",
+    "index.html": "/lazy-load/index.html",
+    "static/css/main.18b790f8.chunk.css.map": "/lazy-load/static/css/main.18b790f8.chunk.css.map",
+    "static/js/2.71be2b1b.chunk.js.LICENSE.txt": "/lazy-load/static/js/2.71be2b1b.chunk.js.LICENSE.txt",
+    "static/media/loading-icon-animated-gif-19.0c238a17.jpg": "/lazy-load/static/media/loading-icon-animated-gif-19.0c238a17.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c79bab3f.js",
+    "static/js/2.71be2b1b.chunk.js",
+    "static/css/main.18b790f8.chunk.css",
+    "static/js/main.400dc8c7.chunk.js"
+  ]
+}
